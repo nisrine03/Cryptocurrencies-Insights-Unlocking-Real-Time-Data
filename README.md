@@ -1,5 +1,5 @@
 The cryptocurrency market is highly volatile, making real-time data essential for effective analysis and decision-making. 
-This project implements a complete pipeline to analyze and visualize cryptocurrency market data using cutting-edge tools and technologies:
+This project implements a complete pipeline to analyze and visualize cryptocurrency market data using cutting-edge tools and technologies, developed on a WSL server::
 
 Real-Time Data Collection and Streaming: Cryptocurrency market data is collected in real-time via the Binance API and streamed through Apache Kafka.
 Data Processing and Transformation: Apache Spark acts as the consumer for Kafka, transforming and preparing the data for analysis.
